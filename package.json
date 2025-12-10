@@ -1,0 +1,19 @@
+{
+  "name": "kicks-mission-app",
+  "version": "1.0.0",
+  "description": "KICKS Mission App - 카페 방문 미션을 통한 리워드 시스템",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": [
+    "kicks",
+    "mission",
+    "cafe",
+    "reward",
+    "qr-code"
+  ],
+  "author": "",
+  "license": "MIT"
+}
